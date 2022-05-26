@@ -1,11 +1,11 @@
 Name:        nspr
-Version:     4.33
-Release:     35
+Version:     4.34
+Release:     36
 License:     MPL-2.0
 Summary:     Netscape Portable Runtime Library
 Group:       libs
 URL:         https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR
-Source0:     https://ftp.mozilla.org/pub/nspr/releases/v4.33/src/nspr-4.33.tar.gz
+Source0:     https://ftp.mozilla.org/pub/nspr/releases/v4.34/src/nspr-4.34.tar.gz
 Requires: nspr-license = %{version}-%{release}
 BuildRequires : gcc-dev32
 BuildRequires : gcc-libgcc32
